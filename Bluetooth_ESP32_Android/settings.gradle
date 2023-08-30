@@ -1,0 +1,2 @@
+rootProject.name='Bluetooth_ESP32_Android'
+include ':app'

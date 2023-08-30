@@ -1,0 +1,3 @@
+rootProject.name='uibt'
+include ':app'
+include ':bluetoothfunction'
